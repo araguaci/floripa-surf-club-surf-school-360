@@ -1,6 +1,6 @@
 # floripa-surf-club-surf-school-360
 
-  - Website: [Floripa Surf Club Surf School](http://www.floripasurfclub.com.br/contato/)
+  - Website: [Floripa Surf Club Surf School](http://www.floripasurfclub.com.br/)
   - Instagram: [@floripasurfcluboficial](https://www.instagram.com/floripasurfcluboficial/)
   - Facebook: [@FloripaSurfClubSurfSchool](https://www.facebook.com/pg/FloripaSurfClubSurfSchool/photos/?ref=page_internal)
 
